@@ -17,7 +17,7 @@ cool lists
 
 ## Cool commands 
 Kill open python processes
-`pkill -f python --all
+```pkill -f python --all```
 
 
 
