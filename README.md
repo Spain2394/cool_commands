@@ -23,5 +23,5 @@ Copy files with status bar
 ```rsync -ah --info=progress2 /copy/from/here /copy/to/here```
 
 Efficient sync of data in a storage device
-```fysync --verbose /from/local/folder /to/storage/device```
+```fsync --verbose /from/local/folder /to/storage/device```
 
