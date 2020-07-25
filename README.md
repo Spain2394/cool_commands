@@ -1,24 +1,11 @@
-# cool_lists
-cool lists 
+# commands I don't want to remember
 
 
-## Compute Vision
-
-#### Deep Learning 
-### Videos
-### Papers
-### Lectures
-
-## ROS lists
-## Deep Learning 
-### Videos
-### Papers
-### Lectures
-
-## Cool commands 
+## Python
 Kill open python processes
 ```pkill -f python --all```
 
+## Transferring files
 Copy files with status bar
 ```rsync -ah --info=progress2 /copy/from/here /copy/to/here```
 
