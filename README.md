@@ -1,5 +1,5 @@
-# Cool Commands
-
+# cool_commands
+Commands that make my life easier
 
 ## Python
 Kill open python processes
