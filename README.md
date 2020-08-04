@@ -1,6 +1,9 @@
 # cool_commands
 Commands that make my life easier
 
+Credit: 
+* https://missing.csail.mit.edu/about/
+
 ## Python
 Kill open python processes
 ```pkill -f python --all```
@@ -12,3 +15,6 @@ Copy files with status bar
 Efficient sync of data in a storage device
 ```fpsync --verbose /from/local/folder /to/storage/device```
 
+## Git
+
+## Data Wrangling
