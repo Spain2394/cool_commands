@@ -16,7 +16,7 @@ Efficient sync of data in a storage device
 ```fpsync --verbose /from/local/folder /to/storage/device```
 
 ## Computing
-- to avoid time sync error you can use ```ntpdata -q <ip address>```
+- Fix time sync errors across different computers ```ntpdata -q <ip address>```
 
 ## Git
 
