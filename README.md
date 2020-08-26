@@ -15,6 +15,9 @@ Copy files with status bar
 Efficient sync of data in a storage device
 ```fpsync --verbose /from/local/folder /to/storage/device```
 
+## Computing
+- to avoid time sync error you can use ```ntpdata -q <ip address>```
+
 ## Git
 
 ## Data Wrangling
