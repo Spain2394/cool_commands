@@ -12,7 +12,7 @@ Kill open python processes
 Syncs files in from here there, copies only differences from here to there not everything like scp.
 ```rsync -ah --info=progress2 /copy/from/here /copy/to/there```
 
-Efficient sync of data in a storage device
+Copies files in parallel 
 ```fpsync --verbose /from/local/folder /to/storage/device```
 
 ## Computing
