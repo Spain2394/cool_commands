@@ -16,7 +16,7 @@ Copies files in parallel
 ```fpsync --verbose /from/local/folder /to/storage/device```
 
 ## Computing
-- Fix time sync errors across different computers ```ntpdata -q <ip address>```
+Fix time sync errors across different computers ```ntpdata -q <ip address>```
 
 ## Git
 
