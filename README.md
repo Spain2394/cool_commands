@@ -27,3 +27,4 @@ Unzip a tar.gz and extract to a specified directory: ```sudo tar xvf <filename>.
 
 Find IPs on a local network ```arp -a```
 
+Make sure all files have been transferred to storage before unmounting using command ```sync```
