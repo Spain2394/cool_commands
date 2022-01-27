@@ -21,3 +21,9 @@ Fix time sync errors across different computers ```ntpdata -q <ip address>```
 ## Git
 
 ## Data Wrangling
+
+## Everyday
+Unzip a tar.gz and extract to a destination: ```sudo tar xvf <filename>.tar.gz -c <destination>```
+
+Find IPs on a local network ```arp -a```
+
