@@ -28,3 +28,10 @@ Unzip a tar.gz and extract to a specified directory: ```sudo tar xvf <filename>.
 Find IPs on a local network ```arp -a```
 
 Make sure all files have been transferred to storage before unmounting using command ```sync```
+
+## Memory access
+
+Read from physical memory using busyboxes devmem 
+
+```sudo devmem 0x00000001 w 0x10``` Write in hex what is 10 in decimal to some address
+```sudo devmem 0x00000001``` To check out the number that is stored at that address
