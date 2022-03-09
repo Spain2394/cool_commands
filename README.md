@@ -31,7 +31,7 @@ Make sure all files have been transferred to storage before unmounting using com
 
 ## Memory access
 
-Read from physical memory using busyboxes devmem 
+Read from physical memory using [busybox/devmem](https://github.com/brgl/busybox/blob/master/miscutils/devmem.c) devmem 
 
 ```sudo devmem 0x00000001 w 0x10``` Write in hex what is 10 in decimal to some address
 ```sudo devmem 0x00000001``` To check out the number that is stored at that address
